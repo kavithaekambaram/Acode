@@ -1,7 +1,7 @@
 package Academy;
 
 /**
- * Hello world!
+ * Hello Team!
  *
  */
 public class App 
